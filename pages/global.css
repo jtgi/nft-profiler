@@ -1,0 +1,14 @@
+body {
+  font-family: "Readex Pro", sans-serif;
+}
+
+a:visited,
+a:link {
+  color: darkolivegreen;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  text-decoration: underline;
+}
